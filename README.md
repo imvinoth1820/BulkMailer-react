@@ -1,4 +1,4 @@
-# Bulk Mail Sender App 📧
+# Bulk Mail Sender App 📧 Link - bulk-mailer-react.vercel.app/
 
 A full-stack application for sending bulk emails with ease.
 
